@@ -1,0 +1,6 @@
+﻿{
+  "sign": "Jwell.UnifiedAuthority",
+  "version": "1.0.0.0",
+  "number": "9A1E0178A67E4DABAD2B7400D4A6C082",
+  "environment": "test" //test,qa,gray,product
+}
